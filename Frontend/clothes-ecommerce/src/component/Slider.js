@@ -16,7 +16,7 @@ export default class Slider extends Component {
     const settings = {
       dots: true,
       infinite: true,
-      speed: 500,
+      speed: 300,
       slidesToShow: 5,
       slidesToScroll: 1
     };
