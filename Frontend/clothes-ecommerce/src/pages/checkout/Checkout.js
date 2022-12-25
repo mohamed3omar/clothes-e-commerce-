@@ -14,7 +14,7 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import AddressForm from './AddressForm';
 import PaymentForm from './PaymentForm';
 import Review from './Review';
-import Navbar from '../../components/Navbar'
+import Navbar from '../../components/navbar/Navbar'
 function Copyright() {
   return (
     <Typography variant="body2" color="text.secondary" align="center">
