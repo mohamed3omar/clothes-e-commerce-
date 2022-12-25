@@ -11,10 +11,10 @@ function App() {
                 <Routes>
                   <Route exact path='/' element ={<Login/>}></Route>
                   <Route path="/Register" element ={<Register/>}></Route>
-                  
+                  <Route path="/Home" element={<Home/>}></Route>
                 </Routes>
               </Router>
-              <Home/>
+              
       </header>
     </div>
   );
